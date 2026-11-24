@@ -1,0 +1,23 @@
+h1 {
+  color: rgb(188, 72, 14);
+  text-align: center;
+}
+
+#card_body {
+  border: solid 4px black;
+  width: 450px;
+  height: 450px;
+  margin: auto;
+  padding: 20px;
+}
+
+#card_body p {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(27, 19, 19);
+}
+
+#card_body h2 {
+  color: rgb(158, 68, 23);
+  text-align: center;
+}
